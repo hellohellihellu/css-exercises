@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+* {
+    color: black
+}
+
+.pink {
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+    background-color: rgb(241, 133, 151);
+}
+.pink#bigger {
+    font-size: 24px;
+}
+
+.blue {
+    font-family: "Time News Roman";
+    color: blue;
+    font-size: 36px;
+}
+
+#bg-green {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
